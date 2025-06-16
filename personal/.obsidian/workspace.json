@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1949079b5da2138",
+        "id": "aa688ac9b9bf72ec",
         "type": "tabs",
         "children": [
           {
-            "id": "de8bdc4cbcd608cf",
+            "id": "45daf38c2d2a2b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1724178814-VPAV.md",
+                "file": "pracaInż/pracain.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "pracain"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1724178814-VPAV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1724178814-VPAV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1724178814-VPAV.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -146,10 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de8bdc4cbcd608cf",
+  "active": "45daf38c2d2a2b01",
   "lastOpenFiles": [
+    "pracaInż/Untitled Diagram.svg",
+    "pracaInż/pracain.md",
+    "finanse/kredythipoteczny.md",
+    "1724178814-VPAV.md",
     "1724178844-USPT.md",
-    "1724180096-USPT.md",
-    "1724178814-VPAV.md"
+    "1724180096-USPT.md"
   ]
 }
